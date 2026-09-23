@@ -1,0 +1,5 @@
+node_modules/
+dist/
+# The Dockerfile copies the built console here; locally it is a build artifact.
+public/
+.env.*
